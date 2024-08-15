@@ -1,13 +1,12 @@
 # tmp
 
 
-# NGINX - Repo config
+- People
+	- Maria Pedersen | Buddy
+	- Nicholas (aka Nick) Bailey | Director 
+	- Ramsey
+	- Carlos Nocito
 
-```
-[nginx]
-name=nginx repo
-baseurl=http://nginx.org/packages/rhel/$releasever/$basearch/
-gpgcheck=0
-enabled=1
-```
+
+
 
